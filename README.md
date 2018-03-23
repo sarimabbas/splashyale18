@@ -6,9 +6,7 @@
 2. Make an account on http://heroku.com
 3. Download and install code-editor. Here are some good ones:
     * VSCode (https://code.visualstudio.com/)
-    * Sublime (https://www.sublimetext.com/)
     * Atom (https://atom.io/)
-4. If you have a Windows computer, and you're feeling adventurous, get the 
 
 ## Ready to publish this project?
 
