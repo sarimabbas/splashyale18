@@ -7,9 +7,9 @@ Table of contents:
 - [Intro to Web Design and Development - Splash at Yale 2018](#intro-to-web-design-and-development---splash-at-yale-2018)
     - [Goals of this class](#goals-of-this-class)
     - [Pre-class tasks](#pre-class-tasks)
-        - [Create accounts and install software](#create-accounts-and-install-software)
-        - [Fork the example code from my GitHub account to yours](#fork-the-example-code-from-my-github-account-to-yours)
-        - [Download the example code to your computer](#download-the-example-code-to-your-computer)
+        - [1. Create accounts and install software](#1-create-accounts-and-install-software)
+        - [2. Fork the example code from my GitHub account to yours](#2-fork-the-example-code-from-my-github-account-to-yours)
+        - [3. Download the example code to your computer](#3-download-the-example-code-to-your-computer)
     - [Optional reading](#optional-reading)
     - [End of class: Ready to publish this project?](#end-of-class-ready-to-publish-this-project)
 
@@ -28,7 +28,7 @@ Can we do all of this in 2 hours? Let's find out!
 
 If you go through as many of these as possible, it will save us time in class. If you get stuck, feel free to email me. I will also send out a pre-class survey to get a sense of where most people are getting stuck. Make sure to fill that out!
 
-### Create accounts and install software
+### 1. Create accounts and install software
 
 1. Make an account on http://github.com
 2. Make an account on http://heroku.com
@@ -43,7 +43,7 @@ Why are we doing all of this? I'll explain in class but:
 3. A code-editor makes things look pretty. The ones I've listed also work nicely with GitHub
 4. GitHub Desktop lets us use the service in a visual way. Many programmers use GitHub from their Terminals, which is easy to do on a Mac, but requires some effort on Windows. Using GitHub Desktop helps us get up and running on both Windows and Mac easily!
 
-### Fork the example code from my GitHub account to yours
+### 2. Fork the example code from my GitHub account to yours
 
 1. Open a web browser
 2. Go to https://github.com/sarimabbas/splashyale18
@@ -51,7 +51,7 @@ Why are we doing all of this? I'll explain in class but:
 
 Why are we doing this? This is so you have a copy of my code on your account. You will be able to modify it as you please.
 
-### Download the example code to your computer
+### 3. Download the example code to your computer
 
 Easy/convenient way:
 1. Open up GitHub Desktop
