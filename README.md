@@ -10,6 +10,7 @@ Table of contents:
         - [1. Create accounts and install software](#1-create-accounts-and-install-software)
         - [2. Fork the example code from my GitHub account to yours](#2-fork-the-example-code-from-my-github-account-to-yours)
         - [3. Download the example code to your computer](#3-download-the-example-code-to-your-computer)
+        - [4. Submit the pre-class survey](#4-submit-the-pre-class-survey)
     - [Optional reading](#optional-reading)
     - [End of class: Ready to publish this project?](#end-of-class-ready-to-publish-this-project)
 
@@ -66,6 +67,14 @@ Alternatively, if you're feeling adventurous:
 2. Navigate to where you like using `cd`
 3. Type and enter: `git clone https://github.com/sarimabbas/splashyale18`
 4. Confirm the folder was downloaded using Finder/Explorer
+
+### 4. Submit the pre-class survey
+
+After you have completed the above tasks, submit the form below so I can better understand students' concerns and difficulties.
+
+https://goo.gl/forms/Fkew4hSW5hba7Dom1
+
+Your participation can help me modify the class to suit everyone's needs. Thanks!
 
 ## Optional reading
 
