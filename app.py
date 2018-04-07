@@ -11,13 +11,7 @@ app = Flask(__name__)
 # "/", it needs to show them the home page
 @app.route("/")
 def home():
-    return render_template("v1/home.html")
-
-# Here we tell the server that whenever someone goes to
-# "/about", it needs to show them the about page
-@app.route("/about")
-def about():
-    return render_template("v1/about.html")
+    return render_template("v12/home.html")
 
 # Don't worry about this! It's just some settings for
 # the server to follow

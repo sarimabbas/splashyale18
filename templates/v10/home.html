@@ -1,0 +1,64 @@
+<html lang="en"> <!-- the start of our HTML document-->
+    <head> <!-- head tags accept things like titles, and scripts and CSS files -->
+        <title>My Website | Home</title>
+        <link rel="stylesheet" href="styles.css"></link>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+            crossorigin="anonymous">
+    </head>
+    <body> <!-- body is where most of our components live -->
+        <!-- a container is exactly what it sounds like! -->
+        <div class="container">
+            <!-- our fancy navigation bar! -->
+            <br> <!-- add some space before our navigation bar -->
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <a class="navbar-brand" href="#">My Epic Website!</a>
+                <!-- this is a hidden button that will only show up when on a mobile phone -->
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <!-- note that you can build up any complicated structure in HTML from  nesting!-->
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav mr-auto"> <!-- notice the ton of classes -->
+                        <li class="nav-item"> <!-- this is a list item-->
+                            <a class="nav-link" href="#">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Instagram</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Twitter</a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+            <br> 
+
+            <!-- a jumbotron as lead in content for your website!-->
+            <div class="jumbotron">
+                <h1 class="display-4">Hi, my name is Handsome Dan.</h1>
+                <p class="lead">This is a paragraph on my home page. I am a dog.
+                    I was born on the 5th of April, 2016. My caretaker's name is Joe. 
+                    He is a good owner. I have am now 3 years old.
+                </p>
+                <p class="lead">
+                    <a class="btn btn-primary" href="#" role="button">My cool button</a>
+                </p>
+            </div>
+            <div class="red-please">
+                <h1>Here's some more cool stuff</h1>
+            </div>
+
+
+
+
+
+        </div> <!-- container ends here -->
+
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+                crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+                crossorigin="anonymous"></script>
+    </body> <!-- remember that we close every tag that we open! -->
+</html>
